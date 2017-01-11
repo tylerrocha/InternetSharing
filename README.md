@@ -1,5 +1,5 @@
 # InternetSharing
-AppleScript to activate Internet Sharing for Mac. Times out after 30 minutes. Still a work in progress.
+AppleScript to activate Internet Sharing for Mac. Times out after 30 minutes to avoid overheating. Still a work in progress.
 
 ### Motivation
 My dorm at NUS doesn't have wifi, so I would like to use my Mac as a hotspot for my phone. Also, when internet sharing is on and I'm using AC power, my Mac never sleeps. As a result, when I forget to turn off internet sharing my Mac eventually starts overheating.
