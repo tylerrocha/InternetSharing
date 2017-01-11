@@ -11,7 +11,7 @@ Then, run the following command to share your internet.
 ```
 osascript share_internet.applescript
 ```
-Script assumes you want to share your Ethernet connection to devices using wifi. Script also assumes you have already set a local hostname and added any desired security to your hotspot.
+Script assumes you want to share your Ethernet connection to devices using wifi. Script also assumes you have already set a local hostname and added any desired security to your hotspot, such as WPA2.
 
 ### Next Steps
 * Create a subroutine so sharing can be renewed indefinitely
